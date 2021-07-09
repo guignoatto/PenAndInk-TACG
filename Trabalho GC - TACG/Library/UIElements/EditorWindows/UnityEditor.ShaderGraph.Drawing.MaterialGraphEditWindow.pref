@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12386, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - __PanelContainer__rootVisualContainer__d0409ea3339927f4cb8a029a66d63b35__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__d0409ea3339927f4cb8a029a66d63b35__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__5bd8f3e37dca74a4da6301b72528fa7c__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__5bd8f3e37dca74a4da6301b72528fa7c__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__81ff0d8aa322aba4083b020e4daa9b47__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__81ff0d8aa322aba4083b020e4daa9b47__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__27c7acc807017bd4ea3324e847acbdc2__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__27c7acc807017bd4ea3324e847acbdc2__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  m_Values:
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{"position":{"x":435.0,"y":508.0,"z":0.0},"scale":{"x":0.4323275685310364,"y":0.4323275685310364,"z":1.0}}'
+  - '{"m_Version":665,"m_SelectedElementsArray":["de93860f-5354-4eb8-a833-80245d6d2497","7b9503e6-d140-4b6c-87f2-6affb0da745b","37cf1d55-50cb-49e8-bb74-09b4abab09bf","40922132-020a-45d2-8d80-4d0e7b602e0d","a107c902-bd26-43d4-9037-f6459581beb1","95ef5d82-7500-4d4e-b09f-f59dbd1491e2","f1805dc5-3688-4822-83aa-68e44472ded4","494d2c39-cbdb-4a0f-b39d-a23dda86a1d4","06f21a6a-0fc2-46f4-870b-bf5cf9e4baea","636217c4-896a-4f92-92a2-37ee385b2527","9d4cd3c8-465e-40c4-848e-f51db03e2329","b9047311-3ec2-4e17-8978-c4ebec434eec","27fff123-6206-4999-98ac-5332e4c80abc","2a36ba0e-7e2e-4966-9aed-925d7f8d27ff","c1cdf82f-e88c-4632-a144-d0f76a48ea74","5ca4e3ed-bcd4-45c0-92ce-cdff952bc41d","931ed33e-c7c5-4631-a166-c863b51f3908"]}'
